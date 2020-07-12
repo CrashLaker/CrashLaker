@@ -5,7 +5,7 @@ Welcome to my Profile!
 
 | Github Pages | Linkedin | Medium |
 | :----------: | :------: | :----: |
-| ![](ca-logo.png) | ![](linkedin-logo.png) | ![](medium-logo.png) |
+| [![](ca-logo.png)](https://crashlaker.github.io) | [![](linkedin-logo.png)](https://www.linkedin.com/in/carlos-aguni/) | [![](medium-logo.png)](https://medium.com/@crashlaker) |
 
 
 
