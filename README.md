@@ -5,28 +5,28 @@ Welcome to my Profile!
 
 | Github Pages | Linkedin | Medium |
 | :----------: | :------: | :----: |
-| [![](ca-logo.png)](https://crashlaker.github.io) | [![](linkedin-logo.png)](https://www.linkedin.com/in/carlos-aguni/) | [![](medium-logo.png)](https://medium.com/@crashlaker) |
+| [![](https://github.com/CrashLaker/CrashLaker/blob/master/ca-logo.png?raw=true)](https://crashlaker.github.io) | [![](https://github.com/CrashLaker/CrashLaker/blob/master/linkekin-logo.png?raw=true)](https://www.linkedin.com/in/carlos-aguni/) | [![](https://github.com/CrashLaker/CrashLaker/blob/master/medium-logo.png?raw=true)](https://medium.com/@crashlaker) |
 
 
 
 * ![](https://github.com/CrashLaker/CrashLaker/blob/master/coffee2.png?raw=true) Education
     * Jan 2017 - Present Master's degreee, Computer Engineering
     * Jan 2012 - Dec 2016 ~ Bachelor's degree, Computer Information Systems
-* ![](coffee2.png) Languages
-    * ![](br-flag.png) Portuguese Native
-    * ![](us-flag.png) English Advanced
-    * ![](cn-flag.png) Chinese Intermediate
-    * ![](arab-league3.png) Arabic Basic 
-* ![](coffee2.png) Fun Facts
+* ![](https://github.com/CrashLaker/CrashLaker/blob/master/coffee2.png?raw=true) Languages
+    * ![](https://github.com/CrashLaker/CrashLaker/blob/master/br-flag.png?raw=true) Portuguese Native
+    * ![](https://github.com/CrashLaker/CrashLaker/blob/master/us-flag.png?raw=true) English Advanced
+    * ![](https://github.com/CrashLaker/CrashLaker/blob/master/cn-flag.png?raw=true) Chinese Intermediate
+    * ![](https://github.com/CrashLaker/CrashLaker/blob/master/arab-league3.png?raw=true) Arabic Basic 
+* ![](https://github.com/CrashLaker/CrashLaker/blob/master/coffee2.png?raw=true) Fun Facts
     * Based in Sao Paulo - Brazil since 2012
-    * Favorite desset: papaya cream with cassis ![](papaya.png)
+    * Favorite desset: papaya cream with cassis ![](https://github.com/CrashLaker/CrashLaker/blob/master/papaya.png?raw=true)
     * Learning Languages
     * Love dancing ~ all sorts
     * Skateboard
     * Born in Campo Grande - MS - Brazil.
 
 ### Welcome you to read some topics in my [blog](https://crashlaker.github.io)
-[![](wordcloud.png)](https://crashlaker.github.io)
+[![](https://github.com/CrashLaker/CrashLaker/blob/master/wordcloud.png?raw=true)](https://crashlaker.github.io)
 
 
 
