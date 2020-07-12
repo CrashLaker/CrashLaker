@@ -14,9 +14,11 @@ Welcome to my Profile!
     * Jan 2012 - Dec 2016 ~ Bachelor's degree, Computer Information Systems
 * ![](https://github.com/CrashLaker/CrashLaker/blob/master/coffee2.png?raw=true) Languages
     * ![](https://github.com/CrashLaker/CrashLaker/blob/master/br-flag.png?raw=true) Portuguese Native
-    * ![](https://github.com/CrashLaker/CrashLaker/blob/master/us-flag.png?raw=true) English Advanced
-    * ![](https://github.com/CrashLaker/CrashLaker/blob/master/cn-flag.png?raw=true) Chinese Intermediate
-    * ![](https://github.com/CrashLaker/CrashLaker/blob/master/arab-league6.png?raw=true) Arabic Basic 
+    * ![](https://github.com/CrashLaker/CrashLaker/blob/master/us-flag.png?raw=true) English C1
+    * ![](https://github.com/CrashLaker/CrashLaker/blob/master/cn-flag.png?raw=true) Chinese B1
+    * ![](https://github.com/CrashLaker/CrashLaker/blob/master/arab-league6.png?raw=true) Arabic A1
+    * ![](https://github.com/CrashLaker/CrashLaker/blob/master/kr-flag.png?raw=true) Korean A1
+    * ![](https://github.com/CrashLaker/CrashLaker/blob/master/ru-flag.png?raw=true) Russian A1
 * ![](https://github.com/CrashLaker/CrashLaker/blob/master/coffee2.png?raw=true) Fun Facts
     * Based in Sao Paulo - Brazil since 2012
     * Favorite desset: papaya cream with cassis ![](https://github.com/CrashLaker/CrashLaker/blob/master/papaya.png?raw=true)
