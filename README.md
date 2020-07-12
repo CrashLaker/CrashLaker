@@ -19,10 +19,12 @@ Welcome to my Profile!
     * ![](arab-league3.png) Arabic Basic 
 * ![](coffee2.png) Fun Facts
     * Based in Sao Paulo - Brazil since 2012
-    * Favorite desset: papaya cream with cassis
+    * Favorite desset: papaya cream with cassis ![](papaya.png)
+    * Learning Languages
     * Love dancing ~ all sorts
     * Skateboard
     * Born in Campo Grande - MS - Brazil.
+
 
 
 
