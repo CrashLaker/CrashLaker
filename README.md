@@ -9,8 +9,9 @@ Welcome to my Profile!
 
 
 
-### ![](coffee2.png) Education
-sdfasdf
+* ![](coffee2.png) Education
+    * Jan 2017 - Present Master's degreee, Computer Engineering
+    * Jan 2012 - Dec 2016 ~ Bachelor's degree, Computer Information Systems
 
 
 
