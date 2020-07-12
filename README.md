@@ -29,4 +29,11 @@ Welcome to my Profile!
 [![](wordcloud.png)](https://crashlaker.github.io)
 
 
+
+
+
+
+
+[Wordcloud credits](https://www.jasondavies.com/wordcloud/)
+
 [ca-logo]: ca-logo.png
