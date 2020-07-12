@@ -13,6 +13,14 @@ Welcome to my Profile!
     * Jan 2017 - Present Master's degreee, Computer Engineering
     * Jan 2012 - Dec 2016 ~ Bachelor's degree, Computer Information Systems
 * ![](https://github.com/CrashLaker/CrashLaker/blob/master/coffee2.png?raw=true) Languages
+| LvL | Languages |
+| :-: | :-------: |
+| C2 |  |
+| C1 |  |
+| B2 |  |
+| B1 |  |
+| A2 |  |
+| A1 |  |
     * ![](https://github.com/CrashLaker/CrashLaker/blob/master/br-flag.png?raw=true) Portuguese Native
     * ![](https://github.com/CrashLaker/CrashLaker/blob/master/us-flag.png?raw=true) English C1
     * ![](https://github.com/CrashLaker/CrashLaker/blob/master/cn-flag.png?raw=true) Chinese B1
