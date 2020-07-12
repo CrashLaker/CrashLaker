@@ -9,7 +9,7 @@ Welcome to my Profile!
 
 
 
-* ![](coffee2.png) Education
+* ![](https://github.com/CrashLaker/CrashLaker/blob/master/coffee2.png?raw=true) Education
     * Jan 2017 - Present Master's degreee, Computer Engineering
     * Jan 2012 - Dec 2016 ~ Bachelor's degree, Computer Information Systems
 * ![](coffee2.png) Languages
