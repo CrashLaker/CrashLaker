@@ -25,7 +25,7 @@ Welcome to my Profile!
     * Skateboard
     * Born in Campo Grande - MS - Brazil.
 
-### Welcome you to read some topics in my [blog](https://crashlaker.github.io)
+### Welcome you to read some topics on my [blog](https://crashlaker.github.io)
 [![](https://github.com/CrashLaker/CrashLaker/blob/master/wordcloud.png?raw=true)](https://crashlaker.github.io)
 
 
