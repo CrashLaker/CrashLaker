@@ -5,7 +5,7 @@ Welcome to my Profile!
 
 | Github Pages | Linkedin | Medium |
 | :----------: | :------: | :----: |
-| [![](https://github.com/CrashLaker/CrashLaker/blob/master/ca-logo.png?raw=true)](https://crashlaker.github.io) | [![](https://github.com/CrashLaker/CrashLaker/blob/master/linkekin-logo.png?raw=true)](https://www.linkedin.com/in/carlos-aguni/) | [![](https://github.com/CrashLaker/CrashLaker/blob/master/medium-logo.png?raw=true)](https://medium.com/@crashlaker) |
+| [![](https://github.com/CrashLaker/CrashLaker/blob/master/ca-logo.png?raw=true)](https://crashlaker.github.io) | [![](https://github.com/CrashLaker/CrashLaker/blob/master/linkedin-logo.png?raw=true)](https://www.linkedin.com/in/carlos-aguni/) | [![](https://github.com/CrashLaker/CrashLaker/blob/master/medium-logo.png?raw=true)](https://medium.com/@crashlaker) |
 
 
 
