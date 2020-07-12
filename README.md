@@ -17,7 +17,12 @@ Welcome to my Profile!
     * ![](us-flag.png) English Advanced
     * ![](cn-flag.png) Chinese Intermediate
     * ![](arab-league3.png) Arabic Basic 
-* ![](coffee2.png) Education
+* ![](coffee2.png) Fun Facts
+    * Based in Sao Paulo - Brazil since 2012
+    * Favorite desset: papaya cream with cassis
+    * Love dancing ~ all sorts
+    * Skateboard
+    * Born in Campo Grande - MS - Brazil.
 
 
 
