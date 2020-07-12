@@ -25,7 +25,8 @@ Welcome to my Profile!
     * Skateboard
     * Born in Campo Grande - MS - Brazil.
 
-
+### Welcome you to read some topics in my blog
+![](wordcloud.png)
 
 
 [ca-logo]: ca-logo.png
