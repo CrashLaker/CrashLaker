@@ -5,7 +5,7 @@ Welcome to my Profile!
 
 | Github Pages | Linkedin | Medium |
 | :----------: | :------: | :----: |
-| ![][ca-logo] | |
+| ![](ca-logo.png) | |
 
 
 
