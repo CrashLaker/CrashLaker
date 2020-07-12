@@ -14,14 +14,14 @@ Welcome to my Profile!
     * Jan 2012 - Dec 2016 ~ Bachelor's degree, Computer Information Systems
 
 ![](https://github.com/CrashLaker/CrashLaker/blob/master/coffee2.png?raw=true) **Languages**
-| LvL | Languages |
-| :-: | :-------: |
-| C2 | ![](https://github.com/CrashLaker/CrashLaker/blob/master/br-flag.png?raw=true) |
-| C1 |  |
-| B2 | ![](https://github.com/CrashLaker/CrashLaker/blob/master/us-flag.png?raw=true) |
-| B1 | ![](https://github.com/CrashLaker/CrashLaker/blob/master/cn-flag.png?raw=true) |
-| A2 |  |
-| A1 | ![](https://github.com/CrashLaker/CrashLaker/blob/master/arab-league6.png?raw=true) ![](https://github.com/CrashLaker/CrashLaker/blob/master/kr-flag.png?raw=true) ![](https://github.com/CrashLaker/CrashLaker/blob/master/ru-flag.png?raw=true)|
+| LvL | Languages | Certs |
+| :-: | :-------: | :-----: |
+| C2 | ![](https://github.com/CrashLaker/CrashLaker/blob/master/br-flag.png?raw=true) | |
+| C1 |  | |
+| B2 | ![](https://github.com/CrashLaker/CrashLaker/blob/master/us-flag.png?raw=true) | TOEFL ITP B2 |
+| B1 | ![](https://github.com/CrashLaker/CrashLaker/blob/master/cn-flag.png?raw=true) | HSK4 |
+| A2 |  | |
+| A1 | ![](https://github.com/CrashLaker/CrashLaker/blob/master/arab-league6.png?raw=true) ![](https://github.com/CrashLaker/CrashLaker/blob/master/kr-flag.png?raw=true) ![](https://github.com/CrashLaker/CrashLaker/blob/master/ru-flag.png?raw=true)| |
 
 * ![](https://github.com/CrashLaker/CrashLaker/blob/master/coffee2.png?raw=true) Fun Facts
     * Based in Sao Paulo - Brazil since 2012
