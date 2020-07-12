@@ -17,8 +17,8 @@ Welcome to my Profile!
 | LvL | Languages |
 | :-: | :-------: |
 | C2 | ![](https://github.com/CrashLaker/CrashLaker/blob/master/br-flag.png?raw=true) |
-| C1 | ![](https://github.com/CrashLaker/CrashLaker/blob/master/us-flag.png?raw=true) |
-| B2 |  |
+| C1 |  |
+| B2 | ![](https://github.com/CrashLaker/CrashLaker/blob/master/us-flag.png?raw=true) |
 | B1 | ![](https://github.com/CrashLaker/CrashLaker/blob/master/cn-flag.png?raw=true) |
 | A2 |  |
 | A1 | ![](https://github.com/CrashLaker/CrashLaker/blob/master/arab-league6.png?raw=true) ![](https://github.com/CrashLaker/CrashLaker/blob/master/kr-flag.png?raw=true) ![](https://github.com/CrashLaker/CrashLaker/blob/master/ru-flag.png?raw=true)|
