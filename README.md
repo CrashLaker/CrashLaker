@@ -16,7 +16,7 @@ Welcome to my Profile!
     * ![](br-flag.png) Portuguese Native
     * ![](us-flag.png) English Advanced
     * ![](cn-flag.png) Chinese Intermediate
-    * Arabic Basic 
+    * ![](arab-league.png) Arabic Basic 
 * ![](coffee2.png) Education
 
 
