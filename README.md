@@ -12,4 +12,4 @@ Welcome to my Profile!
 
 
 
-[ca-log]: ca-logo.png
+[ca-logo]: ca-logo.png
