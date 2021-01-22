@@ -7,8 +7,6 @@ Welcome to my Profile!
 | :----------: | :------: | :----: |
 | [![](https://github.com/CrashLaker/CrashLaker/blob/master/ca-logo.png?raw=true)](https://crashlaker.github.io) | [![](https://github.com/CrashLaker/CrashLaker/blob/master/linkedin-logo.png?raw=true)](https://www.linkedin.com/in/carlos-aguni/) | [![](https://github.com/CrashLaker/CrashLaker/blob/master/medium-logo.png?raw=true)](https://medium.com/@crashlaker) |
 
-
-
 * ![](https://github.com/CrashLaker/CrashLaker/blob/master/coffee2.png?raw=true) Education
     * Jan 2017 - Present Master's degreee, Computer Engineering
     * Jan 2012 - Dec 2016 ~ Bachelor's degree, Computer Information Systems
@@ -30,6 +28,10 @@ Welcome to my Profile!
     * Love dancing ~ all sorts
     * Skateboard
     * Born in Campo Grande - MS - Brazil.
+
+### Projects in Blog
+
+[![](https://crashlaker.github.io/assets/static/crashlaker-projects-adv2.gif)](https://crashlaker.github.io/projects/)
 
 ### Welcome you to read some of these topics on my [blog](https://crashlaker.github.io)
 [![](https://github.com/CrashLaker/CrashLaker/blob/master/wordcloud.png?raw=true)](https://crashlaker.github.io)
