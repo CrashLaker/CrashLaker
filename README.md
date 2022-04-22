@@ -41,6 +41,7 @@ Welcome to my Profile!
 
 
 
+![](https://komarev.com/ghpvc/?username=crashlaker)
 
 [Wordcloud credits](https://www.jasondavies.com/wordcloud/)
 
