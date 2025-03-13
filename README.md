@@ -8,7 +8,7 @@ Welcome to my Profile!
 | [![](https://github.com/CrashLaker/CrashLaker/blob/master/ca-logo.png?raw=true)](https://crashlaker.github.io) | [![](https://github.com/CrashLaker/CrashLaker/blob/master/linkedin-logo.png?raw=true)](https://www.linkedin.com/in/carlos-aguni/) | [![](https://github.com/CrashLaker/CrashLaker/blob/master/medium-logo.png?raw=true)](https://medium.com/@crashlaker) |
 
 * ![](https://github.com/CrashLaker/CrashLaker/blob/master/coffee2.png?raw=true) Education
-    * Jan 2017 - Present Master's degreee, Computer Engineering
+    * Jan 2017 - Apr 2024 ~ Master's degreee, Computer Engineering
     * Jan 2012 - Dec 2016 ~ Bachelor's degree, Computer Information Systems
 
 ![](https://github.com/CrashLaker/CrashLaker/blob/master/coffee2.png?raw=true) **Languages**
@@ -22,12 +22,12 @@ Welcome to my Profile!
 | A1 | ![](https://github.com/CrashLaker/CrashLaker/blob/master/arab-league6.png?raw=true) ![](https://github.com/CrashLaker/CrashLaker/blob/master/kr-flag.png?raw=true) ![](https://github.com/CrashLaker/CrashLaker/blob/master/ru-flag.png?raw=true)| |
 
 * ![](https://github.com/CrashLaker/CrashLaker/blob/master/coffee2.png?raw=true) Fun Facts
-    * Based in Sao Paulo - Brazil since 2012
+    * Based in Sao Paulo - Brazil since 2012.
+    * Born in Campo Grande - MS - Brazil.
     * Favorite desset: papaya cream with cassis ![](https://github.com/CrashLaker/CrashLaker/blob/master/papaya.png?raw=true)
     * Learning Languages
     * Love dancing ~ all sorts
     * Skateboard
-    * Born in Campo Grande - MS - Brazil.
 
 ### Projects in Blog
 
